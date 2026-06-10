@@ -1,4 +1,3 @@
-
 //Maddison Montijo/ Assignment 1.3 / CSD-402    
 
 import java.util.Scanner;
